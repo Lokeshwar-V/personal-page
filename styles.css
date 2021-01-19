@@ -49,9 +49,11 @@ bottom: 300px;
 #para1{
   clear: left;
   text-align: right;
+  font-size: 1.2rem;
 }
 #para2{
   clear: right;
+  font-size: 1.2rem;
 }
 .contact-me{
   background-color: #ffeebb;
@@ -122,13 +124,14 @@ h1{
 h2{
   color: #66BFBF;
   font-family: 'Staatliches', cursive;
-  font-size: 2.5rem;
+  font-size: 3rem;
   font-weight: normal;
   padding-bottom: 10px;
 }
 h3{
 font-family: 'Rancho', cursive;
-  color:  #f05454
+  color:  #f05454;
+  font-size: 2rem;
 }
 hr{
   border-style: dotted none none;
